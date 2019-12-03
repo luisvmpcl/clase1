@@ -1,0 +1,30 @@
+https://git-scm.com/download/win
+https://github.com/
+git init         ---- para inicializar
+git status       -- existe tres status
+git add          ---  git add index.html style.css script.js
+git add .        ------ si estas de acuerdo que todo lo que esta en rojo esta bien lo das .
+
+para registrarse:
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+git commit  para hacer el backup
+git commit -m "He creado 3 archivos de mi primera pagina"
+----------------------------------------------------------------
+git status
+git add .
+git commit -m "He creado 3 archivos de mi primera pagina"
+
+git push -u origin master      ---- es para subir al servidor
+
+
+##################################################3
+despues que le damos crear 
+git remote add origin https://github.com/luisvmpcl/clase1.git
+
+
+Create
+Read
+Update
+Delete
